@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Beranda DompetKu"},{"path":"/transactions","title":"Transaksi DompetKu"},{"path":"/statistics","title":"Statistik DompetKu"},{"path":"/budgets","title":"Anggaran DompetKu"},{"path":"/settings","title":"Pengaturan DompetKu"}]}
